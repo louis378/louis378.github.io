@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://louis378.github.io/sitemap.xml 
